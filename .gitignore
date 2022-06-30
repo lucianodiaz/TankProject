@@ -72,15 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.log
-ProjectTanks/Saved/Crashes/UE4CC-Windows-69338B2A4F5B85EDDC2653A3C8DE3067_0000/UE4Minidump.dmp
-ProjectTanks/Saved/Crashes/UE4CC-Windows-69338B2A4F5B85EDDC2653A3C8DE3067_0000/CrashContext.runtime-xml
-ProjectTanks/Saved/Crashes/UE4CC-Windows-26E258954134C48A20DC42A9D3B27133_0000/UE4Minidump.dmp
-ProjectTanks/Saved/Crashes/UE4CC-Windows-26E258954134C48A20DC42A9D3B27133_0000/CrashContext.runtime-xml
-ProjectTanks/Saved/Config/WorldState/1184717485.json
-ProjectTanks/Saved/Config/CrashReportClient/UE4CC-Windows-C531119D4FBFA7BE94542D8A2506A0E4/CrashReportClient.ini
-ProjectTanks/Saved/Config/CrashReportClient/UE4CC-Windows-B37550EF4378B196347115A99F9FC35C/CrashReportClient.ini
-ProjectTanks/Saved/Config/CrashReportClient/UE4CC-Windows-26E258954134C48A20DC42A9D3B27133/CrashReportClient.ini
-ProjectTanks/Saved/Config/CrashReportClient/UE4CC-Windows-23F0A0264F904199D23AA09DEF511315/CrashReportClient.ini
-*.tmp
-ProjectTanks/Saved/Config/CrashReportClient/UE4CC-Windows-23F0A0264F904199D23AA09DEF511315/CrashReportClient.ini
